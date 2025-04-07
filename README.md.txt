@@ -10,3 +10,24 @@ elif media < 4:
     print("reprovado")
 else:
     print("recuperacao")
+
+upper-MAIUSCULO.
+lower-menusculo.
+
+emailcliente="andresaofc55@gmail.com. "
+
+emailcliente= emailcliente.upper()
+print(emailcliente)
+emailcliente=emailcliente.lower()
+print(emailcliente)
+comparação se usa (==)
+calculo no py
+soma+
+subtração -
+divisão /
+multiplicação *
+porcentagem /
+
+saída padrão 12h
+
+
